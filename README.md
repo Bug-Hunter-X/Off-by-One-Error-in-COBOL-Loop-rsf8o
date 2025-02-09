@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating a common off-by-one error in loops. The program intends to iterate 10 times, but due to the loop condition, it iterates 11 times.
